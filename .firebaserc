@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "login-ng-f1725": {
+      "hosting": {
+        "login": [
+          "login-ng-f1725"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "login-ng-f1725"
+  }
+}
